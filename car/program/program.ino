@@ -26,11 +26,11 @@ else if(t == 'B'){      //NAZAD
   digitalWrite(10,HIGH);
 }
  
-else if(t == 'L'){      //DESNO
+else if(t == 'L'){      //LIJEVO
   digitalWrite(11,HIGH);
 }
 
-else if(t == 'R'){      //LIJEVO
+else if(t == 'R'){      //DESNO
   digitalWrite(13,HIGH);
 }
 
